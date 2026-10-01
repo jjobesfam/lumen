@@ -1,0 +1,4 @@
+node_modules
+.next
+.vercel
+data/studio.json
